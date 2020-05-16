@@ -1,6 +1,14 @@
 Esta es una historia de control de versiones
 Manana nos enfocamos en una vida laboral 
 
+<<<<<<< HEAD
+=======
+Experimento 1
+
+Experimento 2
+
+
+>>>>>>> 87e7063... Ex2
 Master 1
 
 Master 2
